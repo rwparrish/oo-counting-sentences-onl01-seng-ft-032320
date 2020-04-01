@@ -7,14 +7,14 @@ class String
   end
 
   def question?
-
+    sekf.question?
   end
 
   def exclamation?
-
+    self.excalmation?
   end
 
   def count_sentences
-
+    self.count_sentences
   end
 end
