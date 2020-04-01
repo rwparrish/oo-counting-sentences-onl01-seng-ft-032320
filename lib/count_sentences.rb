@@ -7,7 +7,7 @@ class String
   end
 
   def question?
-    sekf.question?
+    self.question?
   end
 
   def exclamation?
